@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fbacda5c-84dc-4ac2-b6e1-047188b667d0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution>
+      <phar pharPath="$PROJECT_DIR$/composer.phar" interpreterId="3c98e1b7-1983-45cc-be38-2f8c3c883381" />
+    </execution>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="PhpServers">
+    <servers>
+      <server host="http://localhost/PROJETOS/codigoaberto/t1" id="3e1660cb-f3a2-49e8-97d0-2008b72083ad" name="Unnamed" />
+    </servers>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/league/oauth2-google" />
+      <path value="$PROJECT_DIR$/vendor/coffeecode/router" />
+      <path value="$PROJECT_DIR$/vendor/league/oauth2-facebook" />
+      <path value="$PROJECT_DIR$/vendor/league/plates" />
+      <path value="$PROJECT_DIR$/vendor/league/oauth2-client" />
+      <path value="$PROJECT_DIR$/vendor/ralouphie/getallheaders" />
+      <path value="$PROJECT_DIR$/vendor/phpmailer/phpmailer" />
+      <path value="$PROJECT_DIR$/vendor/matthiasmullie/path-converter" />
+      <path value="$PROJECT_DIR$/vendor/matthiasmullie/minify" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/guzzle" />
+      <path value="$PROJECT_DIR$/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/psr7" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/promises" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/paragonie/random_compat" />
+      <path value="$PROJECT_DIR$/vendor/coffeecode/datalayer" />
+      <path value="$PROJECT_DIR$/vendor/coffeecode/optimizer" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1aGAcpUgWhrFywRSLZTfqeXyPIy" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../SitePHP+MVC+CRUD" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.PHP" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Unnamed" type="PhpWebAppRunConfigurationType" factoryName="PHP Web Application" nameIsGenerated="true" browser="b2a9dca7-9d0b-4e1e-98a8-afb19c1328d2" server_name="Unnamed">
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fbacda5c-84dc-4ac2-b6e1-047188b667d0" name="Default Changelist" comment="" />
+      <created>1586351638172</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586351638172</updated>
+      <workItem from="1586351639586" duration="13705000" />
+      <workItem from="1586440747862" duration="6262000" />
+      <workItem from="1586455405685" duration="5355000" />
+      <workItem from="1586463705120" duration="1336000" />
+      <workItem from="1586476261435" duration="1141000" />
+      <workItem from="1586529260776" duration="3000000" />
+      <workItem from="1586619378047" duration="4760000" />
+      <workItem from="1586704622618" duration="13314000" />
+      <workItem from="1586725822945" duration="99000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="263" y="38" key="#CLI_Interpreters" timestamp="1586352448574">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="263" y="38" key="#CLI_Interpreters/0.0.1366.728/1366.0.1280.984@0.0.1366.728" timestamp="1586352448574" />
+    <state x="263" y="19" key="#Servers" timestamp="1586463884771">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="263" y="19" key="#Servers/0.0.1366.728/1366.0.1280.984@0.0.1366.728" timestamp="1586456353224" />
+    <state x="263" y="19" key="#Servers/0.0.1366.728@0.0.1366.728" timestamp="1586463884771" />
+    <state x="275" y="22" key="#Web_Browsers" timestamp="1586463859466">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="22" key="#Web_Browsers/0.0.1366.728@0.0.1366.728" timestamp="1586463859466" />
+    <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586463886019">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728/1366.0.1280.984@0.0.1366.728" timestamp="1586456360559" />
+    <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1586463886019" />
+    <state x="488" y="80" key="#com.intellij.ide.util.MemberChooser" timestamp="1586718982132">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="488" y="80" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728/1366.0.1280.984@0.0.1366.728" timestamp="1586718982132" />
+    <state x="459" y="277" width="447" height="261" key="ComposerInitDialogKey" timestamp="1586352458123">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="459" y="277" width="447" height="261" key="ComposerInitDialogKey/0.0.1366.728/1366.0.1280.984@0.0.1366.728" timestamp="1586352458123" />
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1586725854721">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728/1366.0.1280.984@0.0.1366.728" timestamp="1586725854721" />
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1586463716858" />
+    <state x="417" y="178" key="NewPhpClassDialog" timestamp="1586705262180">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="417" y="178" key="NewPhpClassDialog/0.0.1366.728/1366.0.1280.984@0.0.1366.728" timestamp="1586705262180" />
+    <state x="517" y="287" key="NewPhpFileDialog" timestamp="1586354112333">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="517" y="287" key="NewPhpFileDialog/0.0.1366.728/1366.0.1280.984@0.0.1366.728" timestamp="1586354112333" />
+    <state x="184" y="6" width="1012" height="715" key="SettingsEditor" timestamp="1586383776041">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="6" width="1012" height="715" key="SettingsEditor/0.0.1366.728/1366.0.1280.984@0.0.1366.728" timestamp="1586383776041" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1586719196495">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728/1366.0.1280.984@0.0.1366.728" timestamp="1586719196495" />
+  </component>
+</project>
